@@ -1,4 +1,4 @@
-## Oliver Virt — Full-stack AI engineer. From the math to the UI.
+## Oliver Virt — Full-stack AI engineer. I know what's under the hood.
 
 Friends call me Or.
 
