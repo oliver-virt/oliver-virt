@@ -1,15 +1,15 @@
-### Hi there 👋
+## Oliver Virt — Full-stack AI engineer. From the math to the UI.
 
-I’m a product-focused software engineer building modern web apps with a strong emphasis on UX, performance, and clean architecture.
+Friends call me Or.
 
-I enjoy turning vague ideas into working systems, iterating fast, and designing things that feel intentional, not accidental.
+[orvirt.com](https://orvirt.com) · [LinkedIn](https://www.linkedin.com/in/or-virt)
 
-- Building with TypeScript, React, Next.js, Node.js
-- Interested in design systems, DX, and AI-assisted workflows
+### Selected work
 
-
-### Reach me
-
-[![LinkedIn](Resources/Logos/linkedin.png)][1]
-
-[1]: https://www.linkedin.com/in/or-virt/?locale=en_US
+- **[Hitkabalti](https://hitkabalti.co.il)** · Israeli university admissions platform. 61K calculations by 21K students.
+- **[Farglass](https://farglass.app)** · Your Mac's RAM, battery and heat on your iPhone.
+- **[publish-guard](https://github.com/oliver-virt/publish-guard)** · Pre-publish safety linter for npm: catches source maps, secrets and sensitive files before they ship.
+- **[Neural Network Framework from Scratch](https://github.com/oliver-virt/Neural-Network-Framework-from-Scratch)** · NumPy only, hand-derived backprop, verified with gradient and Jacobian tests.
+- **[Open-Set Recognition](https://github.com/oliver-virt/Open-Set-Recognition-Using-Energy-Based-Model)** · Energy-based out-of-distribution detection, so a classifier can answer "Unknown".
+- **[RoBERTa churn detection](https://github.com/oliver-virt/Possible-Churn-Detection-in-NICE-Customer-Support)** · Real-time churn-risk alerts for support chats. HackRU 2023, NICE challenge.
+- **[Gesture detection on OpenCV](https://github.com/oliver-virt/EmguCV-Gesture-Detection-DLL)** · Hand-gesture detection from a webcam with EmguCV. Magshimim final project.
